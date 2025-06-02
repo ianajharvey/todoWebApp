@@ -1,7 +1,6 @@
 # To-Do Web App
 
-A simple and interactive To-Do List web application built using **Python** and **Streamlit**. Users can add tasks, mark them as completed, and delete them — all in a clean and responsive UI.
-Built as part of a learning course
+A simple and interactive To-Do List web application built using **Python** and **Streamlit**. Users can add tasks, mark them as completed, and delete them — all in a clean and responsive UI. Built as part of a learning course
 
 ## Features
 
